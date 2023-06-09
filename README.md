@@ -33,8 +33,8 @@ Include a brief summary of the project's results and findings.
 2. Example of a maze with the starts and ends points, in green and red respectively.
 ![Example of a maze with the starts and ends points, in green and red respectively](src/static/images/maze_starts_and_ends.png)
 
-
-<!-- ![Screenshot 3](path/to/screenshot3.png) -->
+3. Example of a maze with one start and end point includin the path in blue. 
+![Example of a maze with one start and end point includin the path in blue](src/static/images/maze_path.png)
 
 ## Contributing
 
