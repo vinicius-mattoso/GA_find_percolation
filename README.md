@@ -27,9 +27,13 @@ Python
 Include a brief summary of the project's results and findings.
 
 ## Screenshots
+1. Example of a maze to simulate a porous media, in black is the rigid media and in white is the open path
+![Example of a maze to simulate a porous media, in black is the rigid media and in white is the open path](src/static/images/maze_example.png)
 
-![Example of a maze to simulate a porous media, in black is the rigid media and in white is the open paht](src/static/images/maze_example.png)
-<!-- ![Screenshot 2](path/to/screenshot2.png) -->
+2. Example of a maze with the starts and ends points, in green and red respectively.
+![Example of a maze with the starts and ends points, in green and red respectively](src/static/images/maze_starts_and_ends.png)
+
+
 <!-- ![Screenshot 3](path/to/screenshot3.png) -->
 
 ## Contributing
