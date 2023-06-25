@@ -36,6 +36,10 @@ Include a brief summary of the project's results and findings.
 3. Example of a maze with one start and end point includin the path in blue. 
 ![Example of a maze with one start and end point includin the path in blue](src/static/images/maze_path.png)
 
+## Solution gif
+
+![Solution gif](src/static/images/maze.gif)
+
 ## Contributing
 
 We welcome contributions to enhance the project! To contribute:
