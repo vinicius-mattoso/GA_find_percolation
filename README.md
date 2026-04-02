@@ -1,5 +1,4 @@
 # Genetic Algorithm for Percolation in Porous Media  
-# Algoritmo Genético para Percolação em Meios Porosos
 
 ---
 
@@ -126,6 +125,8 @@ Data Scientist | AI, Optimization & Generative AI
 
 ---
 
+# Algoritmo Genético para Percolação em Meios Porosos
+---
 ## 🇧🇷 Versão em Português
 
 ## 📌 Visão Geral
